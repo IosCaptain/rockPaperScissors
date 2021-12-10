@@ -15,7 +15,7 @@ public class Game extends CounterControl{
         conditions();
     }
     //Conditionals
-    public static void conditions() {
+    public static void conditions(){
 
         //Checking input
         String userInput = Reader.getInput();
@@ -32,31 +32,24 @@ public class Game extends CounterControl{
 
 
         if (userInput.equals("rock") && opponentInput.equals("paper")) {
-            System.out.println("***Opponent Wins***");
             addOpponentWin();
             Game.flow();
         } else if (userInput.equals("paper") && opponentInput.equals("scissors")) {
-            System.out.println("***Opponent Wins***");
             addOpponentWin();
             Game.flow();
         } else if (userInput.equals("scissors") && opponentInput.equals("rock")) {
-            System.out.println("***Opponent Wins***");
             addOpponentWin();
             Game.flow();
         } else if (userInput.equals("scissors") && opponentInput.equals("paper")) {
-            System.out.println("***User Wins***");
             addUserWin();
             Game.flow();
         } else if (userInput.equals("rock") && opponentInput.equals("scissors")) {
-            System.out.println("***User Wins***");
             addUserWin();
             Game.flow();
         } else if (userInput.equals("paper") && opponentInput.equals("rock")) {
-            System.out.println("***User Wins***");
             addUserWin();
             Game.flow();
         } else if (userInput.equals(opponentInput)) {
-            System.out.println("***It's a tie***");
             addDraw();
             Game.flow();
         }

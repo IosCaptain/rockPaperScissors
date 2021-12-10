@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b090290-50e2-429f-bd23-528566dcd566" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CounterControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Local.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rockPaperScissors/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rockPaperScissors/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rockPaperScissors/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rockPaperScissors/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rockPaperScissors/OpponentMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rockPaperScissors/OpponentMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OpponentMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpponentMenu.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b090290-50e2-429f-bd23-528566dcd566" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639088585404</updated>
-      <workItem from="1639088592737" duration="27918000" />
+      <workItem from="1639088592737" duration="27938000" />
     </task>
     <servers />
   </component>
