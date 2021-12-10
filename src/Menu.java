@@ -6,8 +6,7 @@ public class Menu {
                         "MENU\n" +
                         "---------------------\n" +
                         "1. Type 'Play' to play.\n" +
-                        "2. Type 'Counter' to exit.\n" +
-                        "3. Type anything else to exit.");
+                        "2. Type anything else to exit.");
 
         switch (Reader.getInput()) {
             case "play":

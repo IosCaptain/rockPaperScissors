@@ -12,10 +12,9 @@ public class OpponentMenu {
         switch(Reader.getInput()) {
             case "c":
                 Game.flow();
-                //System.out.println("Future steps need to be set"); //call the function to ask for an input RPC
                 break;
             case "l":
-                System.out.println("Playing against another human is being developed");
+                Local.flow();
                 break;
             default:
                 Menu.display();
